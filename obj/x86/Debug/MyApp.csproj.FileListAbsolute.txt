@@ -1,0 +1,9 @@
+D:\Desktop\Test\EmbeddedAssembly\MyApp\bin\Debug\MyApp.exe
+D:\Desktop\Test\EmbeddedAssembly\MyApp\bin\Debug\MyApp.pdb
+D:\Desktop\Test\EmbeddedAssembly\MyApp\obj\x86\Debug\MyApp.Form1.resources
+D:\Desktop\Test\EmbeddedAssembly\MyApp\obj\x86\Debug\MyApp.Properties.Resources.resources
+D:\Desktop\Test\EmbeddedAssembly\MyApp\obj\x86\Debug\MyApp.csproj.GenerateResource.Cache
+D:\Desktop\Test\EmbeddedAssembly\MyApp\obj\x86\Debug\MyApp.exe
+D:\Desktop\Test\EmbeddedAssembly\MyApp\obj\x86\Debug\MyApp.pdb
+D:\Desktop\Test\EmbeddedAssembly\MyApp\obj\x86\Debug\MyApp.csprojResolveAssemblyReference.cache
+D:\Desktop\Test\EmbeddedAssembly\MyApp\bin\Debug\MyApp.exe.config
